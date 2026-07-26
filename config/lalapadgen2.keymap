@@ -60,12 +60,12 @@
         };
 
         COMBO_WIN_DEFAULT {
-            bindings = <&df WIN_DEFAULT_LAYER>;
+            bindings = <&to WIN_DEFAULT_LAYER>;
             key-positions = <1 9>;
         };
 
         COMBO_MAC_DEFAULT {
-            bindings = <&df MAC_DEFAULT_LAYER>;
+            bindings = <&to MAC_DEFAULT_LAYER>;
             key-positions = <26 9>;
         };
     };
