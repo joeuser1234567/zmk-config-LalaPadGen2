@@ -77,7 +77,7 @@
             display-name = "Windows";
             bindings = <
 &mt ESCAPE Q       &kp W         &kp E         &kp R               &kp T                                                &kp Y          &kp U                &kp I           &kp O           &kp P
-&kp A              &kp S         &kp D         &kp F               &kp G                                                &kp H          &kp J                &kp K           &kp L           &kp EQUAL
+&kp A              &kp S         &kp D         &kp F               &kp G                                                &kp H          &kp J                &kp K           &kp L           &kp MINUS
 &mt2 LEFT_SHIFT Z  &kp X         &kp C         &kp V               &kp B                                                &kp N          &kp M                &kp COMMA       &kp PERIOD      &mt RIGHT_SHIFT SQT
 &kp LCTRL          &kp LEFT_ALT  &kp LEFT_WIN  &mo TERTIARY_LAYER  &mt LEFT_GUI TAB  &mt LEFT_CONTROL SPACE  &kp ENTER  &kp BACKSPACE  &mo SECONDARY_LAYER  &kp LANGUAGE_1  &kp LANGUAGE_2  &kp SLASH
                    &none         &kp RIGHT     &kp DOWN            &kp LEFT          &kp UP                  &kp UP     &kp LEFT       &kp DOWN             &kp RIGHT       &none
@@ -90,7 +90,7 @@
             display-name = "Mac";
             bindings = <
 &mt ESCAPE Q       &kp W         &kp E         &kp R               &kp T                                                &kp Y          &kp U                &kp I           &kp O           &kp P
-&kp A              &kp S         &kp D         &kp F               &kp G                                                &kp H          &kp J                &kp K           &kp L           &kp EQUAL
+&kp A              &kp S         &kp D         &kp F               &kp G                                                &kp H          &kp J                &kp K           &kp L           &kp MINUS
 &mt2 LEFT_SHIFT Z  &kp X         &kp C         &kp V               &kp B                                                &kp N          &kp M                &kp COMMA       &kp PERIOD      &mt RIGHT_SHIFT SQT
 &kp LCTRL          &kp LEFT_ALT  &kp LEFT_WIN  &mo TERTIARY_LAYER  &mt LEFT_CONTROL TAB  &mt LEFT_GUI SPACE  &kp ENTER  &kp BACKSPACE  &mo SECONDARY_LAYER  &kp LANGUAGE_1  &kp LANGUAGE_2  &kp SLASH
                    &none         &kp RIGHT     &kp DOWN            &kp LEFT              &kp UP              &kp UP     &kp LEFT       &kp DOWN             &kp RIGHT       &none
